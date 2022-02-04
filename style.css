@@ -15,9 +15,11 @@ body {
   padding: 10%
 }
 
-img {
+img {  
+  display: block;
   margin-left: auto;
   margin-right: auto;
+  width: 50%;
 }
 
 hr {
