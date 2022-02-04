@@ -15,28 +15,7 @@ body {
   padding: 10%
 }
 
-.content_contact {
-  margin: 25px;
-  width: 600px;
-  height: 1200px;
-  position: relative;
-}
-
-.contact_2 {
-  width: 200px;
-  height: 300px;
-  /* Center vertically and horizontally */
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  margin top: -150px
-  magin left: -100px
-  /* Apply negative top and left margins to truly center the element */
-}
-}
-
 img {
-  display: block;
   margin-left: auto;
   margin-right: auto;
 }
