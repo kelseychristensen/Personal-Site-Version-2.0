@@ -1,30 +1,94 @@
-<style>html {
+<style>
+
+html {
   height: 100%
 }
 
 body {
-  background-color: #F0ECE3;
-  color: #99A799;
+  background-image: url("bg.png");
+  color: #B4CFB0;
   align: center;
 }
 
-.content {
-  max-height: 60%;
-  max-width: 80%;
+.container {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  border: 5px;
+  padding: 15px 10px 10px 10px;
+  background-color: white;
+  width: 22rem;
+  padding: 2rem;
   margin: auto;
-  padding: 10%
+  border-radius: .5rem;
 }
 
-img {  
-  display: block;
+table {
   margin-left: auto;
   margin-right: auto;
-  width: 100px;
+  text-align: center;
+  width: 300px;
+  padding: 10px;
 }
+
+tr {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+  display: block;
+  align: center;
+  color: #789395;
+  font-size: 2.5rem;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40px;
+  transition: transform .5s;
+
+}
+
+a:hover {
+  transform: scale(1.5);
+}
+
+
+main .avatar {
+		position: relative;
+		display: block;
+		margin-bottom: 1.5em;
+	}
+
+main .avatar img {
+		display: block;
+		margin: 0 auto;
+		border-radius: 100%;
+		box-shadow: 0 0 0 1.5em #ffffff;
+		width: 200px;
+	}
+
+main .avatar:before {
+		content: '';
+		display: block;
+		position: absolute;
+		top: 50%;
+		left: -3em;
+		width: calc(100% + 6em);
+		height: 1px;
+		z-index: -1;
+		background: #c8cccf;
+	}
+
+.avatar {
+  display: block;
+  margin: 0 auto;
+}
+
 
 hr {
   border-style: dotted none none none;
-  border-color: #E2C2B9;
+  border-color: #94B49F;
   border-width: 5px;
   width: 5%;
   font-family: 'Lato';
@@ -32,41 +96,17 @@ hr {
 }
 
 h1 {
-  color: #99A799;
+  color: #789395;
   text-align: center;
   font-family: 'Lato';
-  font-size: 40px;
+  font-size: 2rem;
 }
 
 h3 {
-  color: #99A799;
+  color: #94B49F;
   font-family: 'Lato';
   font-size: 22px;
 }
 
-table {
-  margin-left: auto;
-  margin-right: auto;
-  width: 300px;
-  padding: 10px;
-}
-
-tr{
-  margin-left: auto;
-  margin-right: auto;
-  width: 20px;
-}
-
-.socials {
-  margin-left: auto;
-  margin-right: auto;
-  width: 40px;
-  transition: transform .3s;
-  filter: drop-shadow(2px 3px 3px #99A799);
-}
-
-.socials:hover {
-  transform: scale(1.5);
-}
 
 </style>
