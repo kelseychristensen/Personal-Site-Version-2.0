@@ -12,7 +12,7 @@
 
 ## Screenshots
 
-![Home Page](C:\Users\kelse\PycharmProjects\Read-Me-For-Github-Projects\personal-site-homepage.PNG "Home Page")
+![Home Page](https://github.com/kelseychristensen/Personal-Site-Version-2.0/blob/main/personal-site-homepage.PNG?raw=true "Home Page")
 
 
 ## Built With
