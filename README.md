@@ -19,6 +19,7 @@
 
 - HTML
 - CSS
+- Bootstrap
 
 ## Author
 
