@@ -7,7 +7,7 @@
 
 - [Live Link](http://kelseychristensen.com/ "Personal Site Live Link")
 - [Repo](https://github.com/kelseychristensen/Personal-Site-Version-2.0 "Personal Site Repo")
-- [Dribbble](https://dribbble.com/shots/19942581-Personal-Business-Card-Site "Personal Site Dribbble Snapshot")
+- [Dribbble](https://dribbble.com/shots/20017766-Personal-Site "Personal Site Dribbble Snapshot")
 
 
 ## Screenshots
